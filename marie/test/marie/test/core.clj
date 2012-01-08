@@ -1,5 +1,5 @@
-(ns Clojure-Marie-Interpreter.test.core
-  (:use [Clojure-Marie-Interpreter.core])
+(ns marie.test.core
+  (:use [marie.core])
   (:use [clojure.test]))
 
 (deftest replace-me ;; FIXME: write
